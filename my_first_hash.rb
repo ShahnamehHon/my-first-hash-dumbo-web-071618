@@ -1,6 +1,6 @@
 def my_hash
   your_hash = {
-    
+    :school_name => "Flatiron"
   }
 end
 
